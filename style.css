@@ -28,7 +28,6 @@ p{
 	font-family: Arial;
 	border: 1px solid black;
 	color: white;
-
 }
 
 #a3{
@@ -87,7 +86,6 @@ p{
 @media (max-width: 767px){
 	.col-xs-12
 	{
-		float: left;
 		background-color: #A2A1A1;
 	}
 	.col-xs-12{
